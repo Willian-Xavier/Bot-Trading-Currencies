@@ -1,8 +1,8 @@
 # Bot Telegram de alertas de mercado
 
-
+<p align="center">
 <img src="Emblema Financeiro Azul com Seta Verde.png" alt="Texto alternativo" width="400" height="400">
-
+</p>
 
 Bot em Node.js + TypeScript para criar alertas de preço de ações e moedas estrangeiras no Telegram. As cotações são recebidas em tempo real através de `watchQuotes` da [TradingView-API](https://github.com/Mathieu2301/TradingView-API), versão 4.
 
